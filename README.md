@@ -26,6 +26,21 @@ As seguintes fontes foram utilizadas no NotebookLM durante o estudo:
    https://getbootstrap.com/docs/5.3/components/
 
 
+## 🖼️ Evidências do NotebookLM
+
+### Notebook criado
+
+![Interface do NotebookLM](assets/notebook-criado.png)
+
+### Exemplo de prompt utilizado
+
+![Prompt enviado ao NotebookLM](assets/prompt-bootstrap.png)
+
+### Resposta gerada pelo NotebookLM
+
+![Resposta do NotebookLM](assets/resposta-bootstrap.png)
+
+---
 ## Tecnologias Utilizadas
 
 - NotebookLM
