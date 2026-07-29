@@ -11,7 +11,7 @@ Utilizar o NotebookLM como ferramenta de estudo para compreender os principais c
 As seguintes fontes foram utilizadas no NotebookLM durante o estudo:
 
 1. Bootstrap Documentation
-   [Bootstrap Documentation](https://getbootstrap.com/docs/5.3/)
+   https://getbootstrap.com/docs/5.3/
 
 2. MDN Web Docs – HTML
    https://developer.mozilla.org/pt-BR/docs/Web/HTML
